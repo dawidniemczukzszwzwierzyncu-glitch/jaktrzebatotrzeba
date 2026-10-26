@@ -1,1 +1,19 @@
-
+.kropki {
+    outline-style: dotted;
+}
+.kreski {
+    outline-style: dashed;
+}
+.ciagly {
+    outline-style: solid;;
+}
+.podwojny {
+    outline-style: double;
+}
+.brak {
+    outline-style: none;
+}
+p {
+    width: 200px;
+    border: 2px solid red;
+}
